@@ -40,7 +40,7 @@ def getDistance():
                                         )
             data=(directions_result[0])['legs'][0]['distance']['text']
             statusCode="200"
-            status="Success"
+            status="Successful"
         except:
             pass                            
         
